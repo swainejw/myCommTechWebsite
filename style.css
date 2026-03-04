@@ -1,11 +1,13 @@
 body {
-    background-color: aquamarine;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(243, 212, 237);
+    font-family: "Sofadi One", system-ui;
+    font-weight: 400;
+    font-style: normal;
 }
 
 header {
     height: 150px;
-    background-color: navy;
+    background-color: rgb(235, 250, 204);
 }
 
 nav {
