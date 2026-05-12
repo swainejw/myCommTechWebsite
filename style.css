@@ -1,8 +1,17 @@
 body {
-    background-color: rgb(243, 212, 237);
+    background-image: url("images/tBG.png");
+    background-repeat: repeat;
     font-family: "Righteous", sans-serif;
     font-weight: 400;
     font-style: normal;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgb(198, 233, 241);
+    padding: 20px;
+    border:#111111 solid 1px;
 }
 
 header {
